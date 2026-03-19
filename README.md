@@ -96,14 +96,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" />
 
 <div align="center">
-  <h2>⚙️ Tech Stack & Herramientas</h2>
-  <p>Tecnologías que impulsan mis soluciones empresariales:</p>
+  <br>
+  <!-- Footer Animado de Wondertech -->
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00C853&height=60&section=footer&text=Wondertech%20Innovations%20-%20Desarrollo%20Interno&fontSize=20&fontAlign=50&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Footer Wondertech" />
   
-  <!-- Iconos animados de Skillicons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,postgres,docker,nginx,github,linux,postman,vscode&perline=9" alt="Tech Stack Animado" />
-  </a>
-  <br><br>
+  <p align="center">
+    <b>Cristian Ruiz</b> | <i>Junior Developer</i>
+  </p>
+</div>>
   
   <h3>Arquitectura de Despliegue</h3>
 </div>
@@ -127,9 +127,7 @@ graph TD
 <div align="center">
 
 
-<!-- Aquí empieza tu footer corregido -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Drect%26color%3D00C853%26height%3D60%26section%3Dfooter%26text%3DWondertech%2520Innovations%2520-%2520Desarrollo%2520Interno%26fontSize%3D20%26fontAlign%3D50%26fontAlignY%3D50%26animation%3DfadeIn%26fontColor%3Dffffff" alt="Footer Wondertech" />
-
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://capsule-render.vercel.app/render?type=rect%26color=00C853%26height=60%26section=footer%26text=Wondertech%20Innovations%20-%20Desarrollo%20Interno%26fontSize=20%26fontAlign=50%26fontAlignY=50%26animation=fadeIn%26fontColor=ffffff" alt="Footer Wondertech" />
 <p align="center">
 <b>Cristian Ruiz</b> | <i>Junior Developer</i>
 </p>
