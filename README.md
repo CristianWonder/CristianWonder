@@ -122,3 +122,15 @@ graph TD
     style D fill:#141414,stroke:#00C853,stroke-width:4px,color:#fff
     style E fill:#714B67,stroke:#fff,stroke-width:2px,color:#fff
     style F fill:#00C853,stroke:#fff,stroke-width:2px,color:#141414
+```
+
+<div align="center">
+
+
+<!-- Aquí empieza tu footer corregido -->
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Drect%26color%3D00C853%26height%3D60%26section%3Dfooter%26text%3DWondertech%2520Innovations%2520-%2520Desarrollo%2520Interno%26fontSize%3D20%26fontAlign%3D50%26fontAlignY%3D50%26animation%3DfadeIn%26fontColor%3Dffffff" alt="Footer Wondertech" />
+
+<p align="center">
+<b>Cristian Ruiz</b> | <i>Junior Developer</i>
+</p>
+</div>
